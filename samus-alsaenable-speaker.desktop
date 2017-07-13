@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Enable Speakers
+Icon=/usr/share/samus-sound-icons/speaker.png
+Exec="samus-alsaenable-speakers" %f
+Comment=The Drive to Develop
+Categories=Settings;
+Terminal=true

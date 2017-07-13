@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Enable Headphones
+Icon=/usr/share/samus-sound-icons/headphones.png
+Exec="samus-alsaenable-headphones" %f
+Comment=The Drive to Develop
+Categories=Settings;
+Terminal=true

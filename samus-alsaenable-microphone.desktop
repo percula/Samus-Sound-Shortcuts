@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Enable Microphone
+Icon=/usr/share/samus-sound-icons/microphone.png
+Exec="samus-alsaenable-microphone" %f
+Comment=The Drive to Develop
+Categories=Settings;
+Terminal=true
